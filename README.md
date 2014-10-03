@@ -1,4 +1,7 @@
 hypem-linker
 ============
 
-Generates a audio file link from a Hype Machine song page.
+Generates an audio file link from a Hype Machine song page.
+
+Usage:
+python page_link.py url
